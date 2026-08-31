@@ -1,6 +1,7 @@
-## Big balla
+## CS372 Repository
 
-# real playa shi
+# Marcus McFadden and Paul Hletko
 
-I'm lowkey typing this up in nano I'm so tuff. That said, I forget how
-markdown works sometimes. **this should be bold**
+This repository holds Jupyter notebooks with responses for homework sets 
+in CS372, Introduction to Applied Machine Learning. The assignments have 
+problems that are primarly solved using python's *scikit-learn* library.
